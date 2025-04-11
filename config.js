@@ -6,20 +6,20 @@ global.audio = "www.youtube.com";
 global.video = "www.youtube.com";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "jadewale71@gmail.com";
-global.location = "Lagos, Nigeria";
+global.email = "cadillaccylee111@gmail.com";
+global.location = "South Africa";
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://astrofx0011:astro@cluster0.lmwnxdt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/Jupiterbold05/Platinum-V1";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "South Africa";
+global.github = process.env.GITHUB || "https://github.com/sircylee/Queen_Kylie-V2";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/gvdQSvi.jpeg";
-global.devs = "27615045572";
-global.sudo = process.env.SUDO || "27615045572";
-global.owner = process.env.OWNER_NUMBER || "27615045572";
+global.devs = "27855039725";
+global.sudo = process.env.SUDO || "27855039725";
+global.owner = process.env.OWNER_NUMBER || "27855039725";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "true";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "Ͳհҽ օղҽ ąҍօѵҽ ąӀӀ ☠️👑🌍™",
-  author: process.env.PACK_AUTHER || "ąҍօѵҽ ąӀӀ ☠️👑🌍",
-  packname: process.env.PACK_NAME || "ąҍօѵҽ ąӀӀ ☠️👑🌍",
+  caption: process.env.CAPTION || "*QUEEN_KYLIE-V2* 👸❤️🧸",
+  author: process.env.PACK_AUTHER || "kylie",
+  packname: process.env.PACK_NAME || "cylee ❤️🧸",
   botname: process.env.BOT_NAME || "QUEEN_KYLIE-V2",
-  ownername: process.env.OWNER_NAME || "Cadillac Cylee ❤️🧸👑",
+  ownername: process.env.OWNER_NAME || "Cylee ❤️🧸",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -65,7 +65,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "PLATINUM").toUpperCase(),
+  LANG: (process.env.THEME || "KYLIE").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = true;
