@@ -14,7 +14,7 @@ let currentDesignIndex = 0;
 function getNextMenuDesign() {
   const designs = [
     {
-      header: "🧸❤️👸 ⟪ *{botname}* ⟫ 👸❤️🧸\n",
+      header: "❤️👸 ⟪ *{botname}* ⟫ 👸❤️\n",
       lineSeparator: "🧸 ",
       commandPrefix: "👑 ",
       footer: "✦✦✦✦✦✦✦✦✦✦",
@@ -22,7 +22,7 @@ function getNextMenuDesign() {
       categorySeparator: "✦✧✦✧✦✧✦\n",
     },
     {
-      header: "🧸❤️👸 ⟪ *{botname}* ⟫ 👸❤️🧸\n",
+      header: "❤️👸 ⟪ *{botname}* ⟫ 👸❤️\n",
       lineSeparator: "🧸 ",
       commandPrefix: "👑 ",
       footer: "⬤⬤⬤⬤⬤⬤⬤",
@@ -30,7 +30,7 @@ function getNextMenuDesign() {
       categorySeparator: "⬤⬛⬤⬛⬤⬛⬤\n",
     },
     {
-      header: "🧸❤️👸 ⟪ *{botname}* ⟫ 👸❤️🧸\n",
+      header: "❤️👸 ⟪ *{botname}* ⟫ 👸❤️\n",
       lineSeparator: "🧸 ",
       commandPrefix: "👑 ",
       footer: "✰✰✰✰✰✰✰",
