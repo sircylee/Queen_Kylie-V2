@@ -1,15 +1,15 @@
 {
-    "name": "Platinum-V1",
+    "name": "Queen_Kylie-V2",
     "description": "Simple WhatsApp Bot",
     "logo": "https://telegra.ph/file/b065f0f673cae5452c358.jpg",
-    "keywords": ["JUPITERBOLD05", "PLATINUM-V1", "Platinum-V1"],
+    "keywords": ["CADILLACCYLEE", "Queen_Kylie-V3", "sircylee"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Platinum-V1",
+        "value": "Cadillac CYLEE",
         "required": true
       },
   
@@ -40,12 +40,12 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Platinum-V1"
+        "value": "QUEEN_KYLIE-V2"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Lagos"
+        "value": "Africa/Johannesburg"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2348100835767"
+        "value": "27835039725"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -115,12 +115,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Platinum-V1",
+        "value": "kylie",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "PLATINUM",
+        "value": "cylee",
         "required": false
       }
     },
