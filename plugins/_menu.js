@@ -16,7 +16,7 @@ function getNextMenuDesign() {
     {
       header: "❤️👸 ⟪ *{botname}* ⟫ 👸❤️\n",
       lineSeparator: "🧸 ",
-      commandPrefix: "👑 ",
+      commandPrefix: "シ︎ ",
       footer: "✦✦✦✦✦✦✦✦✦✦",
       emoji: "❤️",
       categorySeparator: "✦✧✦✧✦✧✦\n",
@@ -24,7 +24,7 @@ function getNextMenuDesign() {
     {
       header: "❤️👸 ⟪ *{botname}* ⟫ 👸❤️\n",
       lineSeparator: "🧸 ",
-      commandPrefix: "👑 ",
+      commandPrefix: "シ︎ ",
       footer: "⬤⬤⬤⬤⬤⬤⬤",
       emoji: "❤️",
       categorySeparator: "⬤⬛⬤⬛⬤⬛⬤\n",
@@ -32,7 +32,7 @@ function getNextMenuDesign() {
     {
       header: "❤️👸 ⟪ *{botname}* ⟫ 👸❤️\n",
       lineSeparator: "🧸 ",
-      commandPrefix: "👑 ",
+      commandPrefix: "シ︎ ",
       footer: "✰✰✰✰✰✰✰",
       emoji: "❤️",
       categorySeparator: "✰☽✰☽✰☽✰\n",
